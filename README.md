@@ -1,3 +1,13 @@
+This is my personal fork of the Bruce firmware for ESP32
+
+Current tools in development:
+- WiFi CSI Scanning to detect "WiFi Blocking Material" (people) through walls
+- Bluetooth Device Signal Strength Positioning (find nearby devices and in what direction)
+
+
+Used on this fork is mainly a locally hosted version of Qwen 3.6 Q4 MoE by Unsloth
+
+
 ![Bruce Main Menu](./media/pictures/bruce_banner.jpg)
 
 # :shark: Bruce
